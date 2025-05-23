@@ -1,20 +1,6 @@
-import { Head } from "$fresh/runtime.ts";
 import { Handlers, PageProps } from "$fresh/server.ts";
 import { getPosts, Post } from "@/utils/posts.ts";
 import ThemeToggle from "../islands/ThemeToggle.tsx";
-
-export default function Home() {
-  return (
-    <>
-      <Head>
-        <title>DMS1 Blog</title>
-      </Head>
-      <div>
-        <h1>DMS1 Blog</h1>
-      </div>
-    </>
-  );
-}
 
 export const handler: Handlers<Post[]> = {
   async GET(_req, ctx) {
