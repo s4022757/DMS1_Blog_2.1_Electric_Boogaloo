@@ -14,6 +14,7 @@ export default function BlogIndexPage(props: PageProps<Post[]>) {
   return (
     <main class="max-w-screen-md px-4 pt-16 mx-auto pb-16">
       <div class="flex justify-between items-center">
+      <img src="static/favicon_lrg.png"></img>
         <h1 class="text-5xl" style="font-family: 'Clarity City', sans-serif; font-weight: 900;">Curtis' DMS1 Blog 2025</h1>
         <ThemeToggle />
       </div>
