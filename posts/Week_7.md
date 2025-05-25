@@ -1,6 +1,6 @@
 ---
 title: Week 7
-published_at: 2025-04-22
+published_at: 2025-05-25
 snippet: Spatial Composition & 3D Form
 ---
 
