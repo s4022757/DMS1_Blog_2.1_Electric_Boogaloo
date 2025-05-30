@@ -20,6 +20,8 @@ First we unpacked the upcoming assignment 3, and there were some key changes to 
 
 ### Sketch map
 
+
+
 ### Asset list
 
 #### 3D assets
