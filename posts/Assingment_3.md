@@ -22,7 +22,7 @@ Now that's installed, lets start a new project using the latest 3D core with inb
 
 ![New Project](week7/Install/newproject.png)
 
-New we're in the belly of the beast. Let's start with the basics and create a new 3D GameObject.
+Now we're in the belly of the beast. Let's start with the basics and create a new 3D GameObject.
 
 ![Create Shape](week7/Install/shapesget.png)
 
@@ -84,7 +84,7 @@ Let's consult the Unity user manual and forums, and wizard up a movement script.
 
 If my abilities don't decieve that should be the ticket. That said, with some of our small planets and a particularly dark skybox, it'll be hard to make out the movement. Before testing, let's implement a trail renderer effect on all of our planets, and attatch and configure our new script.
 
-![Into orbit](week7/Solar/movement1.png)
+![Into orbit](week7/Solar/movement.png)
 
 We've got the planets into orbit. Unfortunately, they're all orbiting around the sun at the same rate. That's not very realistic and looks quite inorganic. Let's look up the length of each real counterpart planet's year and adjust the orbit rate perameter in the script of each planet.
 
@@ -263,60 +263,60 @@ Now that we have developed our skills, lets transform our sketches into 3D basic
 Starting with the first scene:
 
 ![scene 1](week7/greybox/scene1-1.png)
-[^1]: The basic forms
+The basic forms
 
 ![scene 1](week7/greybox/scene1-2.png)
-[^1]: Painting a road into the texture.
+Painting a road into the texture.
 
 Not sure how much I like that. Let's try an alternative method using EasyRoads3D
 
 ![scene 1](week7/greybox/scene1-3.png)
-[^1]: That's better
+That's better
 
 
 Alright, now for scene two:
 
 ![scene 2](week7/greybox/scene2-1.png)
-[^1]: Starting position
+Starting position
 
 ![scene 2](week7/greybox/scene2-2.png)
-[^1]: Starting perspective
+Starting perspective
 
 ![scene 2](week7/greybox/scene2-3.png)
-[^1]: The destination
+The destination
 
 ![scene 2](week7/greybox/scene2-4.png)
-[^1]: Bird's eye view of whole scene
+Bird's eye view of whole scene
 
 Next, scene 3:
 
 ![scene 3](week7/greybox/scene3-1.png)
-[^1]: Starting perspective
+Starting perspective
 
 ![scene 3](week7/greybox/scene3-2.png)
-[^1]: Bird's eye view of whole scene
+Bird's eye view of whole scene
 
 ![scene 3](week7/greybox/scene3-3.png)
-[^1]: Full context of staircase
+Full context of staircase
 
 ![scene 3](week7/greybox/scene3-4.png)
-[^1]: Final destination 
+Final destination 
 
 ![scene 3](week7/greybox/scene3-5.png)
-[^1]: Looming moon
+Looming moon
 
 I thought at first the it would be possible to extend this scene further, although it does not seem possible for me to have a tunnel into another area that runs through the staircase. The object meshes available in the vanilla unity editor are somewhat limited in the way.
 
 To solve we will create another scene:
 
 ![scene 4](week7/greybox/scene4-1.png)
-[^1]: Bird's eye view of the scene
+Bird's eye view of the scene
 
 ![scene 4](week7/greybox/scene4-2.png)
-[^1]: Inside the tunnel
+Inside the tunnel
 
 ![scene 4](week7/greybox/scene4-3.png)
-[^1]: Exiting the tunnel
+Exiting the tunnel
 
 That's looking pretty good, now to beautify it with assets.
 
@@ -373,7 +373,7 @@ Then, almost missing it but looking to our left, we spotted another good sign.
 
 Mmm coffee, could this be the place?
 
-![way](week7/wayfinding/foundit.jpeg)
+![way](week7/wayfinding/foundit.jpg)
 
 We found it! 
 
