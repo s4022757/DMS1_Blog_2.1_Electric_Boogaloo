@@ -1,6 +1,6 @@
 ---
 title: Assignment 3
-published_at: 2025-05-25
+published_at: 2025-05-30
 snippet: All lumped together context for A3!
 ---
 
